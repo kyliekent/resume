@@ -1,2 +1,9 @@
-// this is a readme
-// this repository is for my web resume
+// This is a readme.
+// This repository is for my web resume.
+
+// I am assuming you will have the xampp program installed on your device.
+
+// To view these files, you will need to download the resume.zip folder and then Extract All Files to your C: > xampp > htdocs folder.
+// Once the files are in the htdocs folder, take note of the name of the folder. It should just be "resume".
+// Open a new web brower (I've always used Chrome) and type localhost/resume 
+// This will take you to my web resume, hooray!
