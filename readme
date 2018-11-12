@@ -2,6 +2,7 @@
 // This repository is for my web resume.
 
 // I am assuming you will have the xampp program installed on your device.
+// Launch xampp and Start the Apache and the MySQL modules.
 
 // To view these files, you will need to download the resume.zip folder and then Extract All Files to your C: > xampp > htdocs folder.
 // Once the files are in the htdocs folder, take note of the name of the folder. It should just be "resume".
