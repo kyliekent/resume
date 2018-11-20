@@ -6,5 +6,5 @@
 
 // To view these files, you will need to download the resume.zip folder and then Extract All Files to your C: > xampp > htdocs folder.
 // Once the files are in the htdocs folder, take note of the name of the folder. It should just be "resume".
-// Open a new web brower (I've always used Chrome) and type localhost/resume 
+// Open a new web browser (I've always used Chrome) and type localhost/resume 
 // This will take you to my web resume, hooray!
